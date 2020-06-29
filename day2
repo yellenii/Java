@@ -1,0 +1,21 @@
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int intType = 100;
+		double doubleType = 150.5;            # doubletype : integer
+		String stringType = "ellen";          # stringtype : words
+		
+		System.out.println(intType);           # new line after import value
+		System.out.println(doubleType);
+		System.out.println(stringType);
+	}
+
+}
+
+
+
+//import//
+100
+150.5
+ellen
