@@ -1,0 +1,21 @@
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int a = 200;
+		
+		System.out.println("10진수 decimal: " + a);
+		System.out.format("8진수 octal : %o\n", a);
+		System.out.format("16진수 hexadecimal : %x", a);
+	
+	}
+
+}
+
+
+
+
+//result//
+10진수 decimal: 200
+8진수 octal: 310
+16진수 hexadecimal: c8
